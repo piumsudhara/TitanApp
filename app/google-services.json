@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85473596957",
+    "firebase_url": "https://protitan19.firebaseio.com",
+    "project_id": "protitan19",
+    "storage_bucket": "protitan19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85473596957:android:d1387a5d53a4a35d",
+        "android_client_info": {
+          "package_name": "com.titan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85473596957-j85d5ufkch0gt6d13629l6adn5bvjqt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.titan",
+            "certificate_hash": "49dcaa1a2c76ef737fea43c0f3c1959485600e1d"
+          }
+        },
+        {
+          "client_id": "85473596957-cvoces4mc11e9dk5ra8df4rhbuddi2et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzBoq3XhVnH7x2LCDaX_tTK9oZrJ5PVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85473596957-cvoces4mc11e9dk5ra8df4rhbuddi2et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
